@@ -1,0 +1,25 @@
+*{
+    background: black;
+    margin-block-start: 25px;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    color: white;
+    text-align: center;
+    
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+}
+img {
+    width: 400px;
+    height: 200px;
+    padding: 0px;
+    
+    scroll-padding-block-end: 25px;
+    border: 5px solid white ;}
